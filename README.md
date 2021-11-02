@@ -1,10 +1,9 @@
-# Assignment21
 
-## chess boart 
+## Chess boart 
 
 ![chess board](https://github.com/sharifnezhad/Assignment21/blob/main/chess-board/chess-Bord.jpg)
 
-## color shift
+## Color shift
 
 Before the changes             |  After the changes
 :-------------------------:|:-------------------------:
@@ -14,7 +13,7 @@ Before the changes             |  After the changes
 :-------------------------:|:-------------------------:
 ![](https://github.com/sharifnezhad/Assignment21/blob/main/color-shift/2.jpg)  |  ![](https://github.com/sharifnezhad/Assignment21/blob/main/color-shift/color_shift_man.jpg)
 
-## dark line
+## Dark line
 
 Before the changes             |  After the changes
 :-------------------------:|:-------------------------:
